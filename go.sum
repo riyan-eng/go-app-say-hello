@@ -2,3 +2,5 @@ github.com/riyan-eng/go-say-hello v1.0.0 h1:URJe71iTd9WEORgV+URf+jQrTZBn027y6tlL
 github.com/riyan-eng/go-say-hello v1.0.0/go.mod h1:Dt18tg0ZzfFUzhhJ+H4Jkvw65uIqJVEqSUrFeaOo7ws=
 github.com/riyan-eng/go-say-hello v1.5.0 h1:PdQTsm7VXZ53lbrT0aVpd6SVQKVHSjAwflGebKiyfIg=
 github.com/riyan-eng/go-say-hello v1.5.0/go.mod h1:Dt18tg0ZzfFUzhhJ+H4Jkvw65uIqJVEqSUrFeaOo7ws=
+github.com/riyan-eng/go-say-hello/v2 v2.0.0 h1:9q2i9Hp8NBXSbR0ezPg0ofhX1amQW5VKapmHKJf/THo=
+github.com/riyan-eng/go-say-hello/v2 v2.0.0/go.mod h1:wdA1CaqLm4XS4Tyn/r5aNGPEltUfoC9aXqJqb0bXFAE=
